@@ -1,0 +1,11 @@
+name,age,department,cgpa,admission_date,gender,year,month,day
+bayo,20,microbiology,3.92,2015-02-01 09:00:00,m,2015,2,1
+tunde,23,botany,3.55,2015-02-01 09:30:00,m,2015,2,1
+bola,23,biochemistry,2.6,2017-04-07 07:45:00,f,2017,4,7
+wunmi,26,botany,4.21,2016-01-07 08:10:00,f,2016,1,7
+jide,30,microbiology,2.79,2015-02-01 10:01:00,m,2015,2,1
+kola,33,botany,3.5,2014-01-03 10:00:00,m,2014,1,3
+shade,28,botany,4.12,2016-04-07 09:15:00,f,2016,4,7
+gideon,26,biochemistry,3.62,2017-01-07 12:00:00,m,2017,1,7
+tolu,27,zoology,2.33,2015-02-01 12:00:00,f,2015,2,1
+evelyn,26,zoology,3.49,2017-04-07 09:05:00,f,2017,4,7
